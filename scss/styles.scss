@@ -1,0 +1,14 @@
+@import "reset";
+@import "variables";
+@import "small";
+
+@media only screen and (min-width:500px){
+    @import "medium";
+}
+
+@media only screen and (min-width:800px){
+    @import "large";
+}
+
+
+

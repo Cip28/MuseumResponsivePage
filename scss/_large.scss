@@ -1,0 +1,24 @@
+@media only screen and (min-width:980px){
+    .card-wrapper{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-right:20px;
+    }
+
+    .card-img-top{
+        width:15rem;
+        height: 19rem;
+    }
+.gallery{
+    margin-bottom:8rem; 
+}
+    .photos img{
+        width:15rem;
+        height: 19rem;
+        float:left;
+        width:33.3333%-$gutterDbl;
+        margin:.5rem $gutter;
+        margin-bottom:5rem;
+    }
+}

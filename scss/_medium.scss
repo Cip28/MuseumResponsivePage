@@ -1,0 +1,21 @@
+@media only screen and (min-width:550px){
+ 
+    .card{
+        width:50%-$gutterDbl;margin:.5rem $gutter;float:left;
+    }
+    .gallery.title{margin:10rem;}
+    .photos img{
+        float:left;width:50%-$gutterDbl;
+        margin:.5rem $gutter;
+        margin-bottom:5rem;
+    }
+    .gallery{
+        margin-bottom:10rem;
+    }
+    .form-title{
+        margin-top:8rem;
+    }
+
+    
+
+}
